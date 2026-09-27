@@ -19,7 +19,7 @@ long addition(void) {
 
 	printf("You chose number: %d\n", b); 
 
-	result = a * b; 
+	result = a + b; 
 
 	printf("You've chosen numbers %d and %d, the answer is %d\n", a, b, result); 
 
@@ -32,7 +32,7 @@ int main(void) {
 
 	printf("++++++++++++++++++++++++++++\n"); 
 
-	printf("Hello World, my name is Carson Sailes.\nI am a professional programmer!\n"); 
+	printf("Hello World, my name is Bruce Sailes,\nI am a professional programmer!\n"); 
 
 	printf("+++++++++++++++++++++++++++\n"); 
 
